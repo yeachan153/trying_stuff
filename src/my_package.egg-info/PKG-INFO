@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1.0
+Summary: Example test package.
+Home-page: UNKNOWN
+Author: Yeachan Park
+Author-email: yeachan153@gmail.com
+License: MIT
+Project-URL: Changelog, https://github.com/ionelmc/python-nameless/blob/master/CHANGELOG.rst
+Project-URL: Issue Tracker, https://github.com/ionelmc/python-nameless/issues
+Description: This is a readme
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Utilities
+Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*
+Provides-Extra: test
